@@ -1,7 +1,7 @@
 Serega Volovoy
 ## Contacts
 - **Phone:** +38 (063) 383-45-14
-- **E-mail:** seregavoy@gmail.com
+- **E-mail:** seregavolovoy@gmail.com
 - **Telegram** [mindexplode] (https://t.me/mindexplode)
 - **GitHub:** [SeregaVolovoy](https://github.com/SeregaVolovoy)
 ## About Me
