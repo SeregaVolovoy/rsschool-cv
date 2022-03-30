@@ -14,7 +14,7 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 - **Git/GitHub**
 - **BEM**
 - **Figma**
-### Code Example
+## Code Example
 ```
 function even_or_odd(number) {
 
@@ -23,7 +23,7 @@ function even_or_odd(number) {
     }
     return "Odd";
 
-}
+ }
 ```
 ### English
 Pre-Intermediate - **A2**
